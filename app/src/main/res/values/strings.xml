@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Using Camera Android</string>
+    <string name="capture_image">Capiturar Imagem</string>
+    <string name="confirm">Confirmar</string>
+</resources>

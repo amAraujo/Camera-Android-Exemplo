@@ -1,0 +1,8 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="capture_image">40px</dimen>
+    <dimen name="capture_image_margin">40dp</dimen>
+    <dimen name="confirm_text">30dp</dimen>
+</resources>
